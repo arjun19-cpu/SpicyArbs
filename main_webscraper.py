@@ -18,7 +18,7 @@ from templates.HTML_template_elements import make_html
 #------------------------------------------------------------------
 
 DEFAULT_LINK_ATTR_NAME = "href"
-ODDSCHECKER_HOME = "https://www.oddschecker.com/"
+ODDSCHECKER_HOME = "https://www.oddschecker.com/football"
 
 #------------------------------------------------------------------
 
